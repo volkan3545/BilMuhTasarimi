@@ -8,7 +8,8 @@
 **Taha TANGÜLÜ 16260055**
 
 
-**Projenin Başlatılma Gerekçesi (Özet)**
+
+_**Projenin Başlatılma Gerekçesi (Özet)**_
 	
 Gelişen dünyada artan araç ihtiyaçlarında müşteri memnuniyetini sağlamak ve onlar için maddiyatta uygun yollar izlemek. 
 Müşteri ile aramızda bir bağ oluşturmak. Fiyat ve kaliteyi birlikte sunabilmektir. Günümüzde herkesin artık lüksten çok ekonomik ve kullanışlı şeylere yönelmesi ile uygun fiyatlı ve kullanışlı hizmet verilebilmektir.
@@ -34,6 +35,6 @@ Müşteri ile aramızda bir bağ oluşturmak. Fiyat ve kaliteyi birlikte sunabil
 ![resim5](s5.png)
 > Veri Tabanı görsel 3
 
-**[Proje dosyamıza direkt ulaşmak için tıklayınız.](OdevKonusu.docx)**
+**[Proje dosyamıza direkt ulaşmak için tıklayınız.](ÖdevKonusu.docx)**
 
 **[SQL dosyamıza direkt ulaşmak için tıklayınız.](arackiralamal.sql)**
