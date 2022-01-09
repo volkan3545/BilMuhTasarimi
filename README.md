@@ -1,11 +1,10 @@
 # Bilgisayar Mühendisliği Tasarımı Proje
 ## ARAÇ KİRALAMA OTOMASYONU
  
-**Volkan UYĞUN 16260073**
+> **Volkan UYĞUN 16260073**
+> **Alpaslan DURSUN 16260046**
+> **Taha TANGÜLÜ 16260055**
 
-**Alpaslan DURSUN 16260046**
-
-**Taha TANGÜLÜ 16260055**
 
 
 
