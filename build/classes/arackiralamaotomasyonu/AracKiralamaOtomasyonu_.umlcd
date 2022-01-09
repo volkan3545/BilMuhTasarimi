@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.yattasolutions.uml.diagrams.classifier:ClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.yattasolutions.uml.diagrams.classifier="http://ns.yatta-solutions.com/umllab/diagrams/classifier/1.1.0" xmi:id="_b8SrkGaLEeyJFbXlcnDV8Q">
+  <modelElement href="AracKiralamaOtomasyonu.uml#_bVrXgGaLEeyJFbXlcnDV8Q"/>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_cEFVoGaLEeyJFbXlcnDV8Q" name="java">
+    <modelElement href="AracKiralamaOtomasyonu.uml#_bryKYWaLEeyJFbXlcnDV8Q"/>
+    <visualProperties xmi:id="_cEFVoWaLEeyJFbXlcnDV8Q" position="50.0,50.0" size="-1.0,-1.0"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_cETYEGaLEeyJFbXlcnDV8Q" name="javax">
+    <modelElement href="AracKiralamaOtomasyonu.uml#_bryxcWaLEeyJFbXlcnDV8Q"/>
+    <visualProperties xmi:id="_cETYEWaLEeyJFbXlcnDV8Q" position="-115.0,50.0" size="-1.0,-1.0"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_cET_IGaLEeyJFbXlcnDV8Q" name="arackiralamaotomasyonu">
+    <modelElement href="AracKiralamaOtomasyonu.uml#_brzYgGaLEeyJFbXlcnDV8Q"/>
+    <visualProperties xmi:id="_cET_IWaLEeyJFbXlcnDV8Q" position="198.0,50.0" size="-1.0,-1.0"/>
+  </nodes>
+</com.yattasolutions.uml.diagrams.classifier:ClassDiagram>

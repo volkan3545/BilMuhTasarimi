@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+                      <Component id="arac_guncel_iptal" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="35" max="-2" attributes="0"/>
+                      <Component id="aracGuncelle_btn" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
+                      <Component id="aracSil_btn" min="-2" pref="55" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="plaka" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="seri" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="renk" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="km" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="marka" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="model" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="14" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="arac_guncel_renk" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="arac_guncel_seri" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="arac_guncel_km" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="arac_guncel_model" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="arac_guncel_marka" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="arac_guncel_plaka" alignment="0" min="-2" pref="189" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="kiraucreti" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="arac_guncel_kira_ucreti" min="-2" pref="187" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="0" pref="2" max="32767" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="yakt" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="yakt1" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="durum_guncel_combox" max="32767" attributes="0"/>
+                          <Component id="yakitTuru_guncel_combox" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jScrollPane2" min="-2" pref="462" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="resim_sec_btn" min="-2" max="-2" attributes="0"/>
+                  <Component id="resim_paneli_guncel" min="-2" pref="350" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="36" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace min="-2" pref="39" max="-2" attributes="0"/>
+                                  <Component id="marka" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="seri" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="model" min="-2" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace min="-2" pref="9" max="-2" attributes="0"/>
+                                          <Component id="renk" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
+                                          <Component id="arac_guncel_renk" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="arac_guncel_km" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="km" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="arac_guncel_plaka" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="plaka" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="19" max="-2" attributes="0"/>
+                                  <Component id="arac_guncel_marka" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="arac_guncel_seri" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="arac_guncel_model" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <Component id="yakt" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="yakt1" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" attributes="0">
+                                  <Component id="yakitTuru_guncel_combox" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="32767" attributes="0"/>
+                                  <Component id="durum_guncel_combox" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="arac_guncel_kira_ucreti" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="kiraucreti" alignment="0" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="arac_guncel_iptal" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="aracGuncelle_btn" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="aracSil_btn" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Component id="jScrollPane2" pref="0" max="32767" attributes="0"/>
+                  </Group>
+                  <Component id="resim_paneli_guncel" min="-2" pref="325" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="resim_sec_btn" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="15" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="java.awt.Label" name="yakt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Yak&#x131;t T&#xfc;r&#xfc;"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.TextField" name="arac_guncel_renk">
+    </Component>
+    <Component class="java.awt.Label" name="kiraucreti">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Kira &#xdc;creti"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.TextField" name="arac_guncel_km">
+    </Component>
+    <Component class="java.awt.TextField" name="arac_guncel_model">
+    </Component>
+    <Component class="java.awt.Label" name="plaka">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Plaka"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.Label" name="seri">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Seri"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.TextField" name="arac_guncel_kira_ucreti">
+    </Component>
+    <Component class="java.awt.Label" name="renk">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Renk"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.Label" name="model">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Model(Y&#x131;l)"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.Label" name="km">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Km"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="aracGuncelle_btn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="G&#xfc;ncelle"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="aracGuncelle_btnActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="java.awt.Label" name="marka">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Marka"/>
+      </Properties>
+    </Component>
+    <Component class="java.awt.TextField" name="arac_guncel_plaka">
+      <Properties>
+        <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+          <Color id="Text Cursor"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="arac_guncel_iptal">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Geri"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="arac_guncel_iptalActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="java.awt.TextField" name="arac_guncel_marka">
+    </Component>
+    <Component class="java.awt.TextField" name="arac_guncel_seri">
+    </Component>
+    <Component class="javax.swing.JComboBox" name="yakitTuru_guncel_combox">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="5">
+            <StringItem index="0" value=""/>
+            <StringItem index="1" value="Dizel"/>
+            <StringItem index="2" value="Benzin"/>
+            <StringItem index="3" value="Hibrit"/>
+            <StringItem index="4" value="LPG"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="yakitTuru_guncel_comboxActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTable" name="veri_tablosu2">
+          <Properties>
+            <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+              <Table columnCount="4" rowCount="4">
+                <Column editable="true" title="Title 1" type="java.lang.Object"/>
+                <Column editable="true" title="Title 2" type="java.lang.Object"/>
+                <Column editable="true" title="Title 3" type="java.lang.Object"/>
+                <Column editable="true" title="Title 4" type="java.lang.Object"/>
+              </Table>
+            </Property>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="aracSil_btn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Sil"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="aracSil_btnActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="resim_paneli_guncel">
+    </Component>
+    <Component class="javax.swing.JComboBox" name="durum_guncel_combox">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="3">
+            <StringItem index="0" value=""/>
+            <StringItem index="1" value="Musait"/>
+            <StringItem index="2" value="Kiral&#x131;"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="durum_guncel_comboxActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="java.awt.Label" name="yakt1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Durumu"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="resim_sec_btn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Resim Se&#xe7;"/>
+        <Property name="enabled" type="boolean" value="false"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="resim_sec_btnActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
