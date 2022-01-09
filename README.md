@@ -13,8 +13,8 @@ Müşteri ile aramızda bir bağ oluşturmak. Fiyat ve kaliteyi birlikte sunabil
 
 **Proje İçinden Görseller**
 
-![resim1](s1)
-![resim2](s2)
-![resim3](s3)
-![resim4](s4)
-![resim5](s5)
+![resim1](s1.png)
+![resim2](s2.png)
+![resim3](s3.png)
+![resim4](s4.png)
+![resim5](s5.png)
