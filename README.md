@@ -1,4 +1,4 @@
-# BilMuhTasarimi
+# Bilgisayar Mühendisliği Tasarımı Proje
 ## ARAÇ KİRALAMA OTOMASYONU
  
 **Volkan UYĞUN 16260073**
